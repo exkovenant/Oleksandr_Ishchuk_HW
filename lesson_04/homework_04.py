@@ -60,3 +60,4 @@ for sentence in adwentures_of_tom_sawer_sentences:
 
 # task 10
 print(len(adwentures_of_tom_sawer_sentences[-2].split()))
+#
